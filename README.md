@@ -8,7 +8,9 @@ that can be loaded into any compliant Learning Management System, Learning Recor
 Initial thoughts involve SCORM compliance, eFront LMS, and Tin Cup integration utilizing Learning Locker LRS.
 
 Project has four Milestones: 
-(1) Infrastructure/EAI - integration of server backend API/Service contract identification and implementation - creation of Virtual Appliance
-(2) Creation of course development framework and tools
-(3) Course acceptance critiria formalize requirements and process for course acceptance
-(4) Course creation drive
+<ol>
+<li>Infrastructure/EAI - integration of server backend API/Service contract identification and implementation - creation of Virtual Appliance</li>
+<li>Creation of course development framework and tools</li>
+<li>Course acceptance critiria formalize requirements and process for course acceptance</li>
+<li>Course creation drive</li>
+</ol>
